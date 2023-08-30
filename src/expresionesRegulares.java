@@ -18,9 +18,9 @@ public class expresionesRegulares {
         boolean isMatch = matcher.matches();
 
         if (isMatch) {
-            System.out.println("La cadena es válida");
+            System.out.println("La cadena es valida");
         } else {
-            System.out.println("La cadena no es válida");
+            System.out.println("La cadena no es valida");
         }
     }
 }
